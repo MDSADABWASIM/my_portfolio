@@ -1,14 +1,14 @@
 # Portfolio
-A portfolio build by using flutter for web. (up to flutter 1.9)
+My portfolio website built in flutter web
 
-original [README](https://github.com/zubairehman/Portfolio-Demo)
+<!-- original [README](https://github.com/MDSADABWASIM/my_portfolio) -->
 
-# How to Use
+## How to Use
 
 ## Step 1
 Download or clone this repo by using the link below:
 ```
-https://github.com/flutterWang/Portfolio-Demo.git
+https://github.com/MDSADABWASIM/my_portfolio.git
 ```
 
 ## Step 2
