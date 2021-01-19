@@ -1,7 +1,6 @@
 # Portfolio
 My portfolio website built in flutter web
 
-<!-- original [README](https://github.com/MDSADABWASIM/my_portfolio) -->
 
 ## How to Use
 
@@ -16,3 +15,5 @@ To run this application simply type in the following command:
 ```
 flutter run -d chrome
 ```
+
+original [README](https://github.com/zubairehman/Portfolio-Demo)
