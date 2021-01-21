@@ -45,12 +45,9 @@ flutter:
   #  - images/a_dot_burr.jpeg
   #  - images/a_dot_ham.jpeg
   assets: 
-    - assets/images/programmer.gif
-    - assets/icons/ic_dribbble.png
-    - assets/icons/ic_evernote.png
-    - assets/icons/ic_google.png
-    - assets/icons/ic_linkedIn.png
-    - assets/icons/ic_twitter.png
+    - assets/
+    - assets/images/
+    - assets/icons/
   fonts:
     - family: MaterialIcons
       fonts:
